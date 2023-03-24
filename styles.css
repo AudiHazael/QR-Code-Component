@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Handlee&family=Inconsolata:wght@200&family=Montserrat&family=Open+Sans&family=Outfit:wght@400;700&display=swap');
 
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
 h3 {
     font-weight: 700;
 }
@@ -16,12 +20,13 @@ p {
 }
 
 .qrContainer {
+    padding: 0px;
     border: 1px solid hsl(212, 45%, 89%);
     border-radius: 12px;
     box-shadow: 1px 1px 20px hsl(212, 45%, 89%);
     background-color: hsl(0, 0%, 100%);
-    width: 375px;
-    height: 500px;
+    width: 325px;
+    height: 550px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -31,7 +36,8 @@ img {
     height: 300px;
     width: 300px;
     border-radius: 12px;
-    margin-top: 2em;
+    margin: 1em;
+    
 }
 
 .text {

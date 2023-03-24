@@ -12,7 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](images/Screenshot%202023-03-24%20152005.png)
+![](images/Screenshot%202023-03-24%20200154.png)
 
 
 ### Links
